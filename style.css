@@ -1,0 +1,174 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    box-shadow: 1px 1px 10px black;
+    height: 50px;
+}
+a{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    color: grey;
+}
+.contact{
+    margin-right: 200px;
+}
+.purplebuzz{
+    color: black;
+    margin-left: 30px;
+    font-size: 25px;
+}
+.buzz{
+    color: purple;
+    margin-left: 5px;
+}
+.home{
+    margin-left: 100px;
+}
+.first{
+    background-image: url(young-girl-love-with-her-lap-top.jpg);
+    background-repeat: no-repeat;
+    height: 650px;
+    background-size: cover;
+}
+.develop{
+    margin-top: 50px;
+    margin-left: 150px;
+    color: blue;
+    font-size: 70px;
+    font-weight: 10;
+    width: 700px;
+}
+.strategy{
+    font-weight: 30;
+}
+hr{
+    border: 1px solid blue;
+    margin-left: 150px;
+    font-size: 30px;
+    width: 200px;
+    margin-top: 15px;
+}
+.lorem{
+    margin-top: 10px;
+    margin-left: 150px;
+    color: blue;
+    font-size: 18px;
+    width: 600px;
+}
+.button{
+    margin-left: 150px;
+    margin-top: 100px;
+    background-color: lightgrey;
+    color: blue;
+    width: 150px;
+    height: 50px;
+    border: 1px solid blue;
+    border-radius: 30px;
+    font-size: 20px;
+}
+h3{
+    margin-left: 300px;
+    font-weight: 10;
+    margin-top: 30px;
+    font-size: 30px;
+}
+.Lorem{
+    margin-left: 300px;
+    margin-top: 15px;
+    width: 700px;
+    font-size: 20px;
+}
+.services{
+    margin-top: 30px;
+    font-weight: 10;
+    font-size: 40px;
+}
+.hr{
+    border: 1px solid blue;
+    margin-left: 300px;
+    font-size: 30px;
+    width: 200px;
+    margin-top: 15px;
+}
+.purple{
+    display: flex;
+    background-color: blue;
+    color: white;
+    height: 100px;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.a{
+    color: white;
+    font-weight: 50;
+}
+.firsta{
+    margin-left: 350px;
+}
+.lasta{
+    margin-right: 350px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto;
+    padding-top: 40px;
+    padding-left: 40px;
+    grid-gap: 50px;
+}
+.div{
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    /* margin-left: 10px; */
+    /* margin-top: 40px; */
+    border: 1px solid white;
+    border-radius: 10px; 
+}
+button{
+    width: 120px;
+    height: 20px;
+}
+.div1{
+    background-image: url(coffee-notebook-table.jpg);
+    /* background-size: cover;
+    width: 300px;
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 40px;
+    border: 1px solid white;
+    border-radius: 20px; */
+}
+.div2{
+    background-image: url(modern-equipped-computer-lab\ \(1\).jpg);
+}
+.div3{
+    background-image: url(front-view-desk-with-stacked-books-copy-space.jpg);
+}
+.div4{
+    background-image: url(modern-equipped-computer-lab.jpg);
+}
+.div5{
+    background-image: url(startup-business-people-working-laptop.jpg);
+}
+.div6{
+    background-image: url(modern-equipped-computer-lab\ \(2\).jpg);
+}
+.div7{
+    background-image: url(composition-with-laptop-notepad.jpg);
+}
+.div8{
+    background-image: url(modern-workplace-arrangement-with-empty-notebook.jpg);
+}
